@@ -3,6 +3,7 @@ Sign Language Recognition using Deep Learning and Computer Vision
 Real-time vision-based Sign Language Recognition system designed to assist individuals with hearing and speech impairments by translating hand gestures into readable text. This project aims to promote accessibility and inclusivity by bridging communication gaps.
 
 Project Overview
+
 The system recognizes six basic sign gestures:
 
 1. Hello
