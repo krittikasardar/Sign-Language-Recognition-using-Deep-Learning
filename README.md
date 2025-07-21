@@ -1,8 +1,8 @@
-Sign Language Recognition using Deep Learning and Computer Vision
+# Sign Language Recognition using Deep Learning and Computer Vision
 
 Real-time vision-based Sign Language Recognition system designed to assist individuals with hearing and speech impairments by translating hand gestures into readable text. This project aims to promote accessibility and inclusivity by bridging communication gaps.
 
-Project Overview
+# Project Overview
 
 The system recognizes six basic sign gestures:
 
@@ -20,11 +20,11 @@ The system recognizes six basic sign gestures:
 
 We used deep learning techniques with Long Short-Term Memory (LSTM) networks and MediaPipe Holistic keypoint detection to achieve accurate gesture recognition in real-time.
 
-Problem Statement
+# Problem Statement
 
 Individuals with hearing or speech impairments often rely on sign language, which is not universally understood. This project addresses the need for a reliable, real-time sign language recognition system that can interpret gestures and output readable text without requiring human interpreters.
 
-Tools & Technologies
+# Tools & Technologies
 
 - Python
 
@@ -36,7 +36,7 @@ Tools & Technologies
 
 - NumPy, Sci-kit Learn, Matplotlib
 
-Methodology
+# Methodology
 
 1. Keypoint Detection with MediaPipe Holistic
 
@@ -74,12 +74,12 @@ Methodology
 
 - Integrated OpenCV and MediaPipe for live gesture detection and text output
 
-Authors
+# Contributors
 
-Krittika Sardar
+- Krittika Sardar
 
-Anjali Sinha
+- Anjali Sinha
 
-Bobby Baidya
+- Bobby Baidya
 
-Supervised by Dr. Soham Sarkar
+- Supervised by Dr. Soham Sarkar
