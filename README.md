@@ -82,4 +82,4 @@ Individuals with hearing or speech impairments often rely on sign language, whic
 
 - Bobby Baidya
 
-- Supervised by Dr. Soham Sarkar
+Supervised by Dr. Soham Sarkar
