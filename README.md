@@ -68,7 +68,7 @@ Methodology
 
 - Achieved categorical accuracy of ~79% during training
 
-- Evaluated with Confusion Matrix and Accuracy Score (100% on test set)
+- Evaluated with Confusion Matrix and Accuracy Score
 
 6. Real-time Testing
 
